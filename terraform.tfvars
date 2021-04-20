@@ -1,8 +1,0 @@
-aws_region = "ap-southeast-1"
-os_image_name = "amzn2-ami-hvm-*-x86_64-gp2"
-instance_type ="t2.micro"
-vpc_cidr_block = "10.0.0.0/16"
-subnet_cidr_block_pub = "10.0.10.0/24"
-subnet_cidr_block_pvt = "10.0.20.0/24"
-avail_zone = "ap-southeast-1b"
-env_prefix = "dev"
